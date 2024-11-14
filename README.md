@@ -1,7 +1,7 @@
 # marotour2025.com.github.io
-Github page view: https://artistslp.github.io/marotour2025.com.github.io
+Github page view: https://artistslp.github.io/marotour2025.com.github.io<br>CloudFlare page view: https://marotour2025-com-github-io.pages.dev/<br>CloudFlare page setup: https://dash.cloudflare.com/73ed68d334e86dadb392d542c204707b/pages/view/marotour2025-com-github-io
 ## block_hero
-title: MARO Tour 2025<br>text1: Lifeline Tour 2025<br>text2: Nov 18, 2024 – Mar 06, 2025
+title: MARO Tour 2025<br>text1: Lifeline Tour<br>text2: Nov 18, 2024 – Mar 06, 2025
 ## block_text
 
 ## block_dates [Active]
